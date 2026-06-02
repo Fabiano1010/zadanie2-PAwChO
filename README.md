@@ -150,6 +150,8 @@ W trybie max BuildKit zapisuje cache dla wszystkich warstw pośrednich, nie tylk
 <img width="1920" height="1015" alt="image" src="https://github.com/user-attachments/assets/c02b4e26-1012-478d-b68a-b83472806b32" />
 
 
+### Package
 
+https://github.com/Fabiano1010/zadanie2-PAwChO/pkgs/container/weatherapp2
 
 
