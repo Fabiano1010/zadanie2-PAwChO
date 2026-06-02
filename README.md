@@ -147,5 +147,9 @@ W trybie max BuildKit zapisuje cache dla wszystkich warstw pośrednich, nie tylk
 
 ## Zrzuty ekranu
 
-<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/fdc98ff3-13d1-416f-94cc-3570985a64be" />
+<img width="1920" height="1015" alt="image" src="https://github.com/user-attachments/assets/c02b4e26-1012-478d-b68a-b83472806b32" />
+
+
+
+
 
